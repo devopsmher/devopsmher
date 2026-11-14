@@ -12,6 +12,11 @@ I build Kubernetes platforms with Terraform, Terragrunt and GitOps, and I'm resp
 - **Kafka: ~$15K a month → $300–500** after replacing a Confluent subscription with a self-hosted cluster.
 - **Local dev setup: days → minutes** with Diamond, a self-service developer platform for 100+ microservices.
 
+### Writing
+
+- [From 2–3 days to 30 minutes: an internal IaC platform with Terragrunt stacks](https://medium.com/@mher.poghosyan/from-2-3-days-to-30-minutes-an-internal-iac-platform-with-terragrunt-stacks-d76b9402e0c5) · code: [terragrunt-platform](https://github.com/devopsmher/terragrunt-platform)
+- [GitHub Actions: manual approval via Telegram](https://medium.com/@mher.poghosyan/github-actions-manual-approval-via-telegram-44fbf3e78049)
+
 ### Stack
 
 AWS · GCP · Kubernetes · Terraform · Terragrunt · Argo CD · Istio · Helm · Karpenter · Ansible · GitLab CI · GitHub Actions · Prometheus · Grafana · Python · Bash
