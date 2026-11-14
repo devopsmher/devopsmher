@@ -10,7 +10,7 @@ I build Kubernetes platforms with Terraform, Terragrunt and GitOps, and I'm resp
 - **New team environment: 2–3 days → 30 minutes.** A Terragrunt platform with versioned modules, stacks and GitOps, built single-handedly.
 - **−80% infrastructure costs** on GCP for an AI assistant serving ~72M requests per day.
 - **Kafka: ~$15K a month → $300–500** after replacing a Confluent subscription with a self-hosted cluster.
-- **Local dev setup: days → minutes** with Diamond, a self-service developer platform for 60+ microservices.
+- **Local dev setup: days → minutes** with Diamond, a self-service developer platform for 100+ microservices.
 
 ### Stack
 
