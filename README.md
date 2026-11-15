@@ -14,6 +14,7 @@ I build Kubernetes platforms with Terraform, Terragrunt and GitOps, and I'm resp
 
 ### Writing
 
+- [A zero-trust service mesh in 3 months: Istio ambient mode as a self-service building block](https://medium.com/@mher.poghosyan/a-zero-trust-service-mesh-in-3-months-istio-ambient-mode-as-a-self-service-building-block-76fc82877f1c) · code: [istio-ambient-building-block](https://github.com/devopsmher/istio-ambient-building-block)
 - [From 2–3 days to 30 minutes: an internal IaC platform with Terragrunt stacks](https://medium.com/@mher.poghosyan/from-2-3-days-to-30-minutes-an-internal-iac-platform-with-terragrunt-stacks-d76b9402e0c5) · code: [terragrunt-platform](https://github.com/devopsmher/terragrunt-platform)
 - [GitHub Actions: manual approval via Telegram](https://medium.com/@mher.poghosyan/github-actions-manual-approval-via-telegram-44fbf3e78049)
 
